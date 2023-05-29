@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const List = styled.ul`
   list-style: none;
-  border: 2px solid #0000000;
+  border: 2px solid #000;
   border-radius: 10px;
   margin: 0 auto;
 `;
